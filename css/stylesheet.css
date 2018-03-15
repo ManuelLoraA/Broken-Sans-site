@@ -1,0 +1,155 @@
+/*GENERAL*/
+.container{
+    min-width: 100%;
+}
+
+.center{
+    text-align: center;
+}
+
+/*HEADER*/
+.header{
+    text-align: center;
+}
+
+.imgheader{
+    max-width: 100%;
+    width: 900px;
+    margin: 0 auto;
+    padding: 250px 100px 250px 100px;
+}
+
+/*ABOUT*/
+.about{
+    background-color: #ededed;
+    padding: 40px;
+}
+
+.abimg{
+    padding: 40px;
+    width: 300px;
+}
+
+.abtext{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    width: 100%;
+    line-height: 25px;
+    font-weight: 300;
+    margin-top: 120px;
+    color: #505050;
+}
+
+/*ABECEDARIO*/
+
+.abecedario{
+    text-align: center;
+
+}
+
+.abctitle{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: #505050;
+    margin-top: 80px;
+    font-size: 42px;
+}
+
+.abcimg{
+    max-width: 100%;
+    width: 900px;
+    padding: 40px; 
+}
+
+/*SLIDER*/
+.slider{
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.slidimg{
+    max-width: 100%;
+    width: 100%;
+    padding: 20px; 
+    /*overflow: hidden;
+    position: absolute;*/
+}
+
+.slick-prev:before {
+  color: #505050!important;;
+}
+.slick-next:before {
+  color: #505050!important;
+
+}
+/*NUMEROS*/
+
+.nutitle{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: #505050;
+    margin-top: 140px;
+    font-size: 42px;
+}
+
+.nuimg{
+    max-width: 100%;
+    width: 900px;
+    padding: 40px;
+    margin-bottom: 40px;
+}
+
+/*descanzo*/
+.desimg{
+    max-width: 100%;
+}
+
+.descanzo{
+    padding: 0;
+    margin-top: 60px;
+}
+
+/*FRASE*/
+
+.fraseimg{
+    max-width: 100%;
+    width: 100%;
+    padding: 20px;
+    margin-top: 160px;
+}
+
+.autorimg{
+    width: 400px;
+    padding: 10px 0 0 20px;
+    margin-bottom: 150px;
+}
+
+/*Descargar*/
+.descargar{
+    padding: 60px;
+    background-color: #ededed;
+    text-align: center;
+}
+
+.descargar h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: #505050;
+    margin-top: 20px;
+}
+
+.descargar a{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+/*FOOTER*/
+.footer{
+    background-color: #212121;
+}
+
+.footer img{
+    padding: 30px;
+    width: 180px;
+}
